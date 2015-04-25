@@ -1,0 +1,12 @@
+1.3 - 25-04-2015 - Pierre Van Glabeke
+* modif url support
+* modif identification du widget
+
+1.2 - 06-02-2015 - Pierre Van Glabeke
+* modifs bloc licence + ajout code sécurité class
+
+1.1 - 15/01/2015 - Pierre Van Glabeke
+* ajout combo affichage + class + hors ligne dans widget
+* modifications localisation
+* modification et ajout mise en forme dans le widget (auteur, billet)
+* suppression fin de ligne unix
